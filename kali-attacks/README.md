@@ -28,7 +28,7 @@ This Kali Linux virtual machine simulates attacker behavior targeting the Window
 
 ## 🧪 Simulated Attacks
 
-✅ Completed:
+✅ In Progress:
 - Port scan against Windows (`T1046`)
 - SMB enumeration (`T1071.001`)
 - Encoded PowerShell command (`T1059.001`)
