@@ -62,7 +62,6 @@ Kali Linux:
 
 - `/windows-harden/`
   - `README.md` – Windows logging setup
-  - `images/` – Screenshots of configuration & logs
   - `config/` – Sysmon XML config
 
 - `/kali-attacks/`
