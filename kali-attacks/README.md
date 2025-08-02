@@ -13,7 +13,7 @@ This Kali Linux virtual machine simulates attacker behavior targeting the Window
 
 ---
 
-## 🔧 Tools Used
+## 🔧 Tools
 
 | Tool            | Purpose                                |
 |------------------|----------------------------------------|
@@ -38,17 +38,6 @@ This Kali Linux virtual machine simulates attacker behavior targeting the Window
 - Privilege escalation test (`T1068`)
 - Registry modification simulation
 - MITRE technique correlation documentation
-
----
-
-## 📸 Screenshots (in `/screenshots/`)
-
-| Filename                   | Description                            |
-|----------------------------|----------------------------------------|
-| `nmap-scan.png`            | Discovered ports on Windows VM         |
-| `enum4linux-results.png`   | SMB enumeration output                 |
-| `base64-payload.png`       | Encoded PowerShell command example     |
-| `eventviewer-response.png` | Detection logs captured on Windows     |
 
 ---
 
