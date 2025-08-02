@@ -41,7 +41,7 @@ This Kali Linux virtual machine simulates attacker behavior targeting the Window
 
 ---
 
-## 📄 Logs & Notes (in `/logs/`)
+## 📄 Logs & Notes (in `/logs/`) 
 
 - `attack-event-correlations.md` – Mapping attack to detection events  
 - `payload-history.md` – Stored PowerShell and shell command samples  
