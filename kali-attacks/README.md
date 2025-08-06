@@ -13,16 +13,16 @@ This Kali Linux virtual machine simulates attacker behavior targeting the Window
 
 ---
 
-## 🔧 Tools
+## 🔧 Tools ()
 
 | Tool            | Purpose                                |
 |------------------|----------------------------------------|
 | `nmap`           | Port scanning and service enumeration  |
-| `enum4linux`     | SMB share and user enumeration         |
-| `base64`         | Encodes payloads for obfuscation       |
-| `msfvenom`       | Reverse shell and exploit payloads     |
-| `netcat` (`nc`)  | Command testing and shell delivery     |
-| `curl` / `wget`  | Simulates suspicious downloads         |
+| `hydra`     |  brute-force attacks to test login credentials on Windows machine     |
+|          |     |
+|       |    |
+|   |    |
+|   |        |
 
 ---
 
